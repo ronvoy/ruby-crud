@@ -5,6 +5,7 @@ Use this project as a starting point to learn and improve your Rails skills.
 Here are the problem description:
 
 * This application is completely REST API based. No need for frontend with erb, or javascript.
+* You can use either [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) to test your rest API, including all features.
 
 ## Part1:
 
@@ -34,3 +35,7 @@ We are building a sports website where users will be able to participate in game
  1. We should be able to create accounts.
  2. Admin account can do CRUD operation on any of the three resources above: Game, Division, Team.
  3. Regular account can do CRUD operation only on their own. Eg: They can create a Game, add divisions to the game, add teams inside the divisions. But they should not be able to do CRUD operations on other people's resources.
+
+## Part 3: Deployment
+
+Create a free account in heroku. And deploy your application there. You should be able to finally test all of these features on heroku using Postman or Insomnia.
