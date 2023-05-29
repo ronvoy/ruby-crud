@@ -30,7 +30,8 @@ Install VSCode from: https://code.visualstudio.com/download
 brew install nvm
 ```
 
-### Install Latest Node Version using NVM from cmd (in windows) / terminal (in linux / mac):
+### Install Latest Node 
+Install Latest Node Version using NVM from cmd (in windows) / terminal (in linux / mac):
 
 ```
 nvm install 18 && nvm use 18
