@@ -17,7 +17,9 @@ sudo apt install curl
 brew install git
 ```
 
-### Install VSCode from https://code.visualstudio.com/download
+### Install VSCode: 
+
+Install VSCode from: https://code.visualstudio.com/download
 
 ### Install NVM from:
 
