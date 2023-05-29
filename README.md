@@ -1,3 +1,48 @@
+# Installation
+
+### Install Brew (Linux / Mac):
+
+```
+sudo apt update
+sudo apt install curl
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+### Install Git:
+
+1. Windows: https://git-scm.com/downloads
+
+2. Linux / Mac:
+```
+brew install git
+```
+
+### Install VSCode from https://code.visualstudio.com/download
+
+### Install NVM from:
+
+1. Windows - https://github.com/coreybutler/nvm-windows/releases
+
+2. Linux / Mac:
+```
+brew install nvm
+```
+
+### Install Latest Node Version using NVM from cmd (in windows) / terminal (in linux / mac):
+
+```
+nvm install 18 && nvm use 18
+```
+
+### Download Latest Ruby Devkit:
+
+1. Windows: https://www.ruby-lang.org/en/downloads/
+
+2. Linux / Mac:
+```
+brew install ruby@3.1
+```
+
 # Rails getting started
 
 Use this project as a starting point to learn and improve your Rails skills.
